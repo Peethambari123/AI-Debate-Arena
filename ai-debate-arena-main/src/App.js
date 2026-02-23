@@ -34,7 +34,7 @@ function App() {
   }, []);
 
   const handleLogin = () => {
-    window.location.href = 'https://ai-debate-arena-1-v9a3.onrender.com';
+    window.location.href = 'https://ai-debate-arena-1-v9a3.onrender.com/auth/google';
   };
 
   const handleLogout = () => {
